@@ -11,7 +11,7 @@
 ---
 ### Follow the Instructions stated below to run the app:
 
-1. `` git clone <> `` : clone the code using the command
+1. `` git clone https://github.com/Yatheesh-Nagella/Monitoring-App.git`` : clone the code using the command
 2.  Install python3 on your local machine 
 3. `` pip3 install -r requirements .txt `` : Installs the required libraries 
 4. `` python3 app.py `` : run the python app
