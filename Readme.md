@@ -1,5 +1,16 @@
 # Native Cloud: Monitoring App
->A python Monitoring application 
+> A Monitoring application built using python
+
+### Objectives achieved
+1. To run a Python App locally.
+2. To containerize a Python application.
+3. Configuring aws-cli.
+4. Create ECR repository using Python Boto3 and pushing Docker Image to ECR using awscli.
+5. Configuring EKS cluster and Nodegroup.
+6. Using python to create Kubernetes Deployments and Service. 
+
+
+---
 ![app image](./system_monitoring.png)
 ---
 ## Tech stack
